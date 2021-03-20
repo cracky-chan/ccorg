@@ -95,7 +95,13 @@ Barker please contact me
 <script>
  
 async function main() { 
-await new Promise(r => setTimeout(r, 2000));
+await new Promise(r => setTimeout(r, 1000));
+var image = document.querySelector("[id^='tmipTrT0']");
+var isLoaded = image.complete && image.naturalHeight !== 0; 
+document.write(image.complete);
+document.write(image.naturalHeight);
+document.write(isLoaded);
+await new Promise(r => setTimeout(r, 1000));
 var image = document.querySelector("[id^='tmipTrT0']");
 var isLoaded = image.complete && image.naturalHeight !== 0; 
 document.write(image.complete);
