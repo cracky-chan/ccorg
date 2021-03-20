@@ -93,6 +93,9 @@ Barker please contact me
 
 <center><font color="white">
 <script async>
+ 
+async function main(){ 
+
 var image = document.querySelector("[id^='tmipTrT0']");
 var isLoaded = image.complete && image.naturalHeight !== 0; 
 document.write(image.complete);
@@ -126,7 +129,9 @@ document.write(4000);
 document.write(image.complete);
 document.write(image.naturalHeight);
 document.write(isLoaded);
-
+}
+ 
+main();
  
  
 </script>
