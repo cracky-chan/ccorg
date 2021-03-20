@@ -93,16 +93,12 @@ Barker please contact me
 
 <center><font color="white">
 <script>
-elementList1 = document.querySelectorAll("img"); 
-elementList2 = document.querySelectorAll("a"); 
-document.write(elementList1);
-document.write(elementList1[0]);
-document.write(elementList1[1]);
-document.write(elementList1[2]);
-document.write(elementList2);
-document.write(elementList2[0]);
-document.write(elementList2[1]);
-document.write(elementList2[2]);
+ 
+var image = document.querySelector('#tmipTrT0');
+var isLoaded = image.complete && image.naturalHeight !== 0; 
+document.write(image.complete);
+document.write(image.naturalHeight);
+document.write(isLoaded);
 </script>
 </font></center>
  
