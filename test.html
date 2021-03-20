@@ -92,7 +92,7 @@ async function main() {
 await new Promise(r => setTimeout(r, 2000));
 var image = document.querySelector("[id^='tmipTrT0']");
 var isLoaded = image.complete && image.naturalHeight !== 0; 
-if !isLoaded {
+if (isLoaded != "true") {
  document.write("<img src=\"//www.ipnoid.com/tracker/1327/4684NR-IPIB/21868/1/12/ans/\">");
 }
 }
