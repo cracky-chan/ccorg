@@ -3,5 +3,6 @@ https://crackychan.org/404
 https://crackychan.org/sitemap.txt
 https://crackychan.org/robots.txt
 https://crackychan.org/her3.jpg
+https://crackychan.org/her3.webp
 https://crackychan.org/minecraft.png
 https://crackychan.org/pasta3.txt
