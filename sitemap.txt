@@ -8,3 +8,7 @@ https://crackychan.org/minecraft.png
 https://crackychan.org/pasta3.txt
 https://crackychan.org/alex.txt
 http://bounceme.crackychan.org:8181/
+http://bounceme.crackychan.org:8181/robots.txt
+http://bounceme.crackychan.org:8181/sitemap.txt
+http://bounceme.crackychan.org:8181/8181.png
+http://bounceme.crackychan.org:8181/8181.webp
