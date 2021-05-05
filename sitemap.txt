@@ -12,3 +12,16 @@ http://bounceme.crackychan.org:8181/8181.png
 http://bounceme.crackychan.org:8181/8181.webp
 http://bounceme.crackychan.org:8181/robots.txt
 http://bounceme.crackychan.org:8181/sitemap.txt
+https://dear-olivia-mirror.crackychan.org/
+https://dear-olivia-mirror.crackychan.org/robots.txt
+https://dear-olivia-mirror.crackychan.org/sitemap.txt
+https://dear-olivia-mirror.crackychan.org/olivia/
+https://dear-olivia-mirror.crackychan.org/submit/
+https://dear-olivia-mirror.crackychan.org/contact/
+https://dear-olivia-mirror.crackychan.org/legend/
+https://dear-olivia-mirror.crackychan.org/legend-eng/
+https://dear-olivia-mirror.crackychan.org/crackyjapan/
+https://dear-olivia-mirror.crackychan.org/crackyjapan-eng/
+https://dear-olivia-mirror.crackychan.org/images/
+https://dear-olivia-mirror.crackychan.org/crackyhouse-files/
+https://dear-olivia-mirror.crackychan.org/extra/
