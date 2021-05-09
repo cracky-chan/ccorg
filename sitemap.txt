@@ -4,9 +4,9 @@ https://crackychan.org/alex.txt
 https://crackychan.org/pasta3.txt
 https://crackychan.org/robots.txt
 https://crackychan.org/sitemap.txt
-http://bounceme.crackychan.org:8181/
-http://bounceme.crackychan.org:8181/robots.txt
-http://bounceme.crackychan.org:8181/sitemap.txt
+https://bounceme.crackychan.org:8181/
+https://bounceme.crackychan.org:8181/robots.txt
+https://bounceme.crackychan.org:8181/sitemap.txt
 https://dear-olivia-mirror.crackychan.org/
 https://dear-olivia-mirror.crackychan.org/archive.txt
 https://dear-olivia-mirror.crackychan.org/contact/
