@@ -4,6 +4,7 @@ https://crackychan.org/alex.txt
 https://crackychan.org/pasta3.txt
 https://crackychan.org/robots.txt
 https://crackychan.org/sitemap.txt
+https://crackychan.org/testgallery/
 https://bounceme.crackychan.org:8181/
 https://bounceme.crackychan.org:8181/robots.txt
 https://bounceme.crackychan.org:8181/sitemap.txt
