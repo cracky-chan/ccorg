@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	useThumbDots="false"
+	resizeOnImport="false"
+	useFullscreenExpand="true"
+
+>
+  <image imageURL="images/d01.jpg"
+	thumbURL="thumbs/d01.jpg"
+	linkURL="images/d01.jpg"
+	linkTarget="_blank"
+	sourcePath="\\wsl$\Ubuntu\home\cmcphers\github\gallery\cracky1\d01.jpg">
+    <title><![CDATA[d01]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/d02.jpg"
+	thumbURL="thumbs/d02.jpg"
+	linkURL="images/d02.jpg"
+	linkTarget="_blank"
+	sourcePath="\\wsl$\Ubuntu\home\cmcphers\github\gallery\cracky1\d02.jpg">
+    <title><![CDATA[d02]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/d03.jpg"
+	thumbURL="thumbs/d03.jpg"
+	linkURL="images/d03.jpg"
+	linkTarget="_blank"
+	sourcePath="\\wsl$\Ubuntu\home\cmcphers\github\gallery\cracky1\d03.jpg">
+    <title><![CDATA[d03]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/d04.jpg"
+	thumbURL="thumbs/d04.jpg"
+	linkURL="images/d04.jpg"
+	linkTarget="_blank"
+	sourcePath="\\wsl$\Ubuntu\home\cmcphers\github\gallery\cracky1\d04.jpg">
+    <title><![CDATA[d04]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/d05.jpg"
+	thumbURL="thumbs/d05.jpg"
+	linkURL="images/d05.jpg"
+	linkTarget="_blank"
+	sourcePath="\\wsl$\Ubuntu\home\cmcphers\github\gallery\cracky1\d05.jpg">
+    <title><![CDATA[d05]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/d06.jpg"
+	thumbURL="thumbs/d06.jpg"
+	linkURL="images/d06.jpg"
+	linkTarget="_blank"
+	sourcePath="\\wsl$\Ubuntu\home\cmcphers\github\gallery\cracky1\d06.jpg">
+    <title><![CDATA[d06]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/d07.jpg"
+	thumbURL="thumbs/d07.jpg"
+	linkURL="images/d07.jpg"
+	linkTarget="_blank"
+	sourcePath="\\wsl$\Ubuntu\home\cmcphers\github\gallery\cracky1\d07.jpg">
+    <title><![CDATA[d07]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/d08.jpg"
+	thumbURL="thumbs/d08.jpg"
+	linkURL="images/d08.jpg"
+	linkTarget="_blank"
+	sourcePath="\\wsl$\Ubuntu\home\cmcphers\github\gallery\cracky1\d08.jpg">
+    <title><![CDATA[d08]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/d09.jpg"
+	thumbURL="thumbs/d09.jpg"
+	linkURL="images/d09.jpg"
+	linkTarget="_blank"
+	sourcePath="\\wsl$\Ubuntu\home\cmcphers\github\gallery\cracky1\d09.jpg">
+    <title><![CDATA[d09]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/d10.jpg"
+	thumbURL="thumbs/d10.jpg"
+	linkURL="images/d10.jpg"
+	linkTarget="_blank"
+	sourcePath="\\wsl$\Ubuntu\home\cmcphers\github\gallery\cracky1\d10.jpg">
+    <title><![CDATA[d10]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/d11.jpg"
+	thumbURL="thumbs/d11.jpg"
+	linkURL="images/d11.jpg"
+	linkTarget="_blank"
+	sourcePath="\\wsl$\Ubuntu\home\cmcphers\github\gallery\cracky1\d11.jpg">
+    <title><![CDATA[d11]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/d12.jpg"
+	thumbURL="thumbs/d12.jpg"
+	linkURL="images/d12.jpg"
+	linkTarget="_blank"
+	sourcePath="\\wsl$\Ubuntu\home\cmcphers\github\gallery\cracky1\d12.jpg">
+    <title><![CDATA[d12]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/d13.jpg"
+	thumbURL="thumbs/d13.jpg"
+	linkURL="images/d13.jpg"
+	linkTarget="_blank"
+	sourcePath="\\wsl$\Ubuntu\home\cmcphers\github\gallery\cracky1\d13.jpg">
+    <title><![CDATA[d13]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/d14.jpg"
+	thumbURL="thumbs/d14.jpg"
+	linkURL="images/d14.jpg"
+	linkTarget="_blank"
+	sourcePath="\\wsl$\Ubuntu\home\cmcphers\github\gallery\cracky1\d14.jpg">
+    <title><![CDATA[d14]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/j01.jpg"
+	thumbURL="thumbs/j01.jpg"
+	linkURL="images/j01.jpg"
+	linkTarget="_blank"
+	sourcePath="\\wsl$\Ubuntu\home\cmcphers\github\gallery\cracky2\j01.jpg">
+    <title><![CDATA[j01]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/j02.jpg"
+	thumbURL="thumbs/j02.jpg"
+	linkURL="images/j02.jpg"
+	linkTarget="_blank"
+	sourcePath="\\wsl$\Ubuntu\home\cmcphers\github\gallery\cracky2\j02.jpg">
+    <title><![CDATA[j02]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/j03.jpg"
+	thumbURL="thumbs/j03.jpg"
+	linkURL="images/j03.jpg"
+	linkTarget="_blank"
+	sourcePath="\\wsl$\Ubuntu\home\cmcphers\github\gallery\cracky2\j03.jpg">
+    <title><![CDATA[j03]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/j04.jpg"
+	thumbURL="thumbs/j04.jpg"
+	linkURL="images/j04.jpg"
+	linkTarget="_blank"
+	sourcePath="\\wsl$\Ubuntu\home\cmcphers\github\gallery\cracky2\j04.jpg">
+    <title><![CDATA[j04]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/j05.jpg"
+	thumbURL="thumbs/j05.jpg"
+	linkURL="images/j05.jpg"
+	linkTarget="_blank"
+	sourcePath="\\wsl$\Ubuntu\home\cmcphers\github\gallery\cracky2\j05.jpg">
+    <title><![CDATA[j05]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/j06.jpg"
+	thumbURL="thumbs/j06.jpg"
+	linkURL="images/j06.jpg"
+	linkTarget="_blank"
+	sourcePath="\\wsl$\Ubuntu\home\cmcphers\github\gallery\cracky2\j06.jpg">
+    <title><![CDATA[j06]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/j07.jpg"
+	thumbURL="thumbs/j07.jpg"
+	linkURL="images/j07.jpg"
+	linkTarget="_blank"
+	sourcePath="\\wsl$\Ubuntu\home\cmcphers\github\gallery\cracky2\j07.jpg">
+    <title><![CDATA[j07]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/j08.jpg"
+	thumbURL="thumbs/j08.jpg"
+	linkURL="images/j08.jpg"
+	linkTarget="_blank"
+	sourcePath="\\wsl$\Ubuntu\home\cmcphers\github\gallery\cracky2\j08.jpg">
+    <title><![CDATA[j08]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/j09.jpg"
+	thumbURL="thumbs/j09.jpg"
+	linkURL="images/j09.jpg"
+	linkTarget="_blank"
+	sourcePath="\\wsl$\Ubuntu\home\cmcphers\github\gallery\cracky2\j09.jpg">
+    <title><![CDATA[j09]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/j10.jpg"
+	thumbURL="thumbs/j10.jpg"
+	linkURL="images/j10.jpg"
+	linkTarget="_blank"
+	sourcePath="\\wsl$\Ubuntu\home\cmcphers\github\gallery\cracky2\j10.jpg">
+    <title><![CDATA[j10]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/j11.jpg"
+	thumbURL="thumbs/j11.jpg"
+	linkURL="images/j11.jpg"
+	linkTarget="_blank"
+	sourcePath="\\wsl$\Ubuntu\home\cmcphers\github\gallery\cracky2\j11.jpg">
+    <title><![CDATA[j11]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/j12.jpg"
+	thumbURL="thumbs/j12.jpg"
+	linkURL="images/j12.jpg"
+	linkTarget="_blank"
+	sourcePath="\\wsl$\Ubuntu\home\cmcphers\github\gallery\cracky2\j12.jpg">
+    <title><![CDATA[j12]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/j13.jpg"
+	thumbURL="thumbs/j13.jpg"
+	linkURL="images/j13.jpg"
+	linkTarget="_blank"
+	sourcePath="\\wsl$\Ubuntu\home\cmcphers\github\gallery\cracky2\j13.jpg">
+    <title><![CDATA[j13]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/j14.jpg"
+	thumbURL="thumbs/j14.jpg"
+	linkURL="images/j14.jpg"
+	linkTarget="_blank"
+	sourcePath="\\wsl$\Ubuntu\home\cmcphers\github\gallery\cracky2\j14.jpg">
+    <title><![CDATA[j14]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/j15.jpg"
+	thumbURL="thumbs/j15.jpg"
+	linkURL="images/j15.jpg"
+	linkTarget="_blank"
+	sourcePath="\\wsl$\Ubuntu\home\cmcphers\github\gallery\cracky2\j15.jpg">
+    <title><![CDATA[j15]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/j16.jpg"
+	thumbURL="thumbs/j16.jpg"
+	linkURL="images/j16.jpg"
+	linkTarget="_blank"
+	sourcePath="\\wsl$\Ubuntu\home\cmcphers\github\gallery\cracky2\j16.jpg">
+    <title><![CDATA[j16]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/j17.jpg"
+	thumbURL="thumbs/j17.jpg"
+	linkURL="images/j17.jpg"
+	linkTarget="_blank"
+	sourcePath="\\wsl$\Ubuntu\home\cmcphers\github\gallery\cracky2\j17.jpg">
+    <title><![CDATA[j17]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/j18.jpg"
+	thumbURL="thumbs/j18.jpg"
+	linkURL="images/j18.jpg"
+	linkTarget="_blank"
+	sourcePath="\\wsl$\Ubuntu\home\cmcphers\github\gallery\cracky2\j18.jpg">
+    <title><![CDATA[j18]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/j19.jpg"
+	thumbURL="thumbs/j19.jpg"
+	linkURL="images/j19.jpg"
+	linkTarget="_blank"
+	sourcePath="\\wsl$\Ubuntu\home\cmcphers\github\gallery\cracky2\j19.jpg">
+    <title><![CDATA[j19]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/j20.jpg"
+	thumbURL="thumbs/j20.jpg"
+	linkURL="images/j20.jpg"
+	linkTarget="_blank"
+	sourcePath="\\wsl$\Ubuntu\home\cmcphers\github\gallery\cracky2\j20.jpg">
+    <title><![CDATA[j20]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/j21.jpg"
+	thumbURL="thumbs/j21.jpg"
+	linkURL="images/j21.jpg"
+	linkTarget="_blank"
+	sourcePath="\\wsl$\Ubuntu\home\cmcphers\github\gallery\cracky2\j21.jpg">
+    <title><![CDATA[j21]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/j22.jpg"
+	thumbURL="thumbs/j22.jpg"
+	linkURL="images/j22.jpg"
+	linkTarget="_blank"
+	sourcePath="\\wsl$\Ubuntu\home\cmcphers\github\gallery\cracky2\j22.jpg">
+    <title><![CDATA[j22]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/j23.jpg"
+	thumbURL="thumbs/j23.jpg"
+	linkURL="images/j23.jpg"
+	linkTarget="_blank"
+	sourcePath="\\wsl$\Ubuntu\home\cmcphers\github\gallery\cracky2\j23.jpg">
+    <title><![CDATA[j23]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
