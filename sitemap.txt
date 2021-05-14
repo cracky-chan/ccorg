@@ -8,6 +8,7 @@ https://crackychan.org/testgallery/
 https://bounceme.crackychan.org:8181/
 https://bounceme.crackychan.org:8181/robots.txt
 https://bounceme.crackychan.org:8181/sitemap.txt
+https://bounceme.crackychan.org:8181/testgallery/
 https://dear-olivia-mirror.crackychan.org/
 https://dear-olivia-mirror.crackychan.org/archive.txt
 https://dear-olivia-mirror.crackychan.org/contact/
