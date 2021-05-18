@@ -1,4 +1,4 @@
-﻿https://bounceme.crackychan.org:8181/
+https://bounceme.crackychan.org:8181/
 https://bounceme.crackychan.org:8181/cgi-bin/classic.rb
 https://bounceme.crackychan.org:8181/robots.txt
 https://bounceme.crackychan.org:8181/sitemap.txt
