@@ -2,11 +2,11 @@ https://crackychan.org/
 https://crackychan.org/404
 https://crackychan.org/alex
 https://crackychan.org/alex.txt
+https://crackychan.org/gallery4/
 https://crackychan.org/pasta3
 https://crackychan.org/pasta3.txt
 https://crackychan.org/robots.txt
 https://crackychan.org/sitemap.txt
-https://crackychan.org/testgallery/
 https://dear-olivia-mirror.crackychan.org/
 https://dear-olivia-mirror.crackychan.org/archive.txt
 https://dear-olivia-mirror.crackychan.org/cgi-bin/classic.rb
